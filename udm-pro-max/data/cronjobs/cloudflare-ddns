@@ -1,0 +1,2 @@
+MAILTO=""
+* * * * * root /data/scripts/cloudflare-ddns.sh | /usr/bin/logger
