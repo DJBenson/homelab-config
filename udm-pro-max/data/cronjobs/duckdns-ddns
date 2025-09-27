@@ -1,0 +1,2 @@
+MAILTO=""
+* * * * * root /data/scripts/duckdns-ddns.sh | /usr/bin/logger
